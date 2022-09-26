@@ -2,7 +2,7 @@
 
 ## 最新
 
-2022年9月21日 更新单篇文章
+2022年9月26日 更新单篇文章
 
 ## 前端知识架构
 
@@ -23,3 +23,7 @@
 3. [JS系列之this](https://www.yuque.com/cycblog/web-basic/cdimgs)
 4. [JS系列之闭包](https://www.yuque.com/cycblog/web-basic/xizox8)
 5. [JS系列之new](https://www.yuque.com/cycblog/web-basic/uqur49)
+
+## ES6系列
+
+1. [ES6系列之promise](https://www.yuque.com/cycblog/web-basic/cu5wk9)
