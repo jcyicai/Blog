@@ -14,6 +14,8 @@
 2. [Vue源码解析之 编译](https://juejin.cn/post/7183347272871051323)
 3. [Vue源码解析之 数据驱动](https://juejin.cn/post/7183347765580136507)
 4. [Vue源码解析之 组件化](https://juejin.cn/post/7184690419970605112)
+5. [Vue源码解析之 合并配置](https://juejin.cn/post/7184726783776784439)
+6. [Vue源码解析之 生命周期](https://juejin.cn/post/7185337573508644922)
 
 ## CSS 系列
 
