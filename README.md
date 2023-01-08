@@ -17,6 +17,7 @@
 5. [Vue源码解析之 合并配置](https://juejin.cn/post/7184726783776784439)
 6. [Vue源码解析之 生命周期](https://juejin.cn/post/7185337573508644922)
 7. [Vue源码解析之 响应式对象](https://juejin.cn/post/7185473953089978429)
+8. [Vue源码解析之 依赖收集](https://juejin.cn/post/7186196646336659511)
 
 ## CSS 系列
 
