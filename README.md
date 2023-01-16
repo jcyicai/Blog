@@ -19,6 +19,7 @@
 7. [Vue源码解析之 响应式对象](https://juejin.cn/post/7185473953089978429)
 8. [Vue源码解析之 依赖收集](https://juejin.cn/post/7186196646336659511)
 9. [Vue源码解析之 派发更新](https://juejin.cn/post/7186492535823401021)
+10. [Vue源码解析之 nextTick](https://juejin.cn/post/7189057409124401208)
 
 ## CSS 系列
 
