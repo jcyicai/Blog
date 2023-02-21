@@ -2,7 +2,7 @@
 
 ## 最新
 
-2023年1月16日 更新一篇文章
+2023年02月21日 更新一篇文章
 
 ## 前端知识架构
 
@@ -21,6 +21,10 @@
 9. [Vue源码解析之 派发更新](https://juejin.cn/post/7186492535823401021)
 10. [Vue源码解析之 nextTick](https://juejin.cn/post/7189057409124401208)
 
+## ES6 系列
+
+1. [ES6系列之 模拟实现Promise](https://juejin.cn/post/7199321626813677626)
+
 ## CSS 系列
 
 1. [CSS系列之 浮动](https://www.yuque.com/cycblog/web-basic/wwvs0b)
@@ -35,7 +39,3 @@
 3. [JS系列之 this](https://www.yuque.com/cycblog/web-basic/cdimgs)
 4. [JS系列之 闭包](https://www.yuque.com/cycblog/web-basic/xizox8)
 5. [JS系列之 new](https://www.yuque.com/cycblog/web-basic/uqur49)
-
-## ES6 系列
-
-1. [ES6系列之 promise](https://www.yuque.com/cycblog/web-basic/cu5wk9)
