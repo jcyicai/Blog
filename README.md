@@ -6,7 +6,7 @@
 
 ## 前端知识架构
 
-[前端知识架构](https://www.yuque.com/cycblog/web-basic/rq2fzn)
+[前端知识架构](https://www.yuque.com/jcyc/blog/rq2fzn)
 
 ## Vue源码解析 系列
 
@@ -27,15 +27,15 @@
 
 ## CSS 系列
 
-1. [CSS系列之 浮动](https://www.yuque.com/cycblog/web-basic/wwvs0b)
-2. [CSS系列之 定位](https://www.yuque.com/cycblog/web-basic/rtkvud)
-3. [CSS系列之 盒模型](https://www.yuque.com/cycblog/web-basic/inblq5)
-4. [CSS系列之 水平垂直居中](https://www.yuque.com/cycblog/web-basic/inblq5)
+1. [CSS系列之 浮动](https://www.yuque.com/jcyc/blog/wwvs0b)
+2. [CSS系列之 定位](https://www.yuque.com/jcyc/blog/rtkvud)
+3. [CSS系列之 盒模型](https://www.yuque.com/jcyc/blog/inblq5)
+4. [CSS系列之 水平垂直居中](https://www.yuque.com/jcyc/blog/inblq5)
 
 ## JS 系列
 
-1. [JS系列之 作用域](https://www.yuque.com/cycblog/web-basic/qzyis4)
-2. [JS系列之 原型及原型链](https://www.yuque.com/cycblog/web-basic/snwlq2)
-3. [JS系列之 this](https://www.yuque.com/cycblog/web-basic/cdimgs)
-4. [JS系列之 闭包](https://www.yuque.com/cycblog/web-basic/xizox8)
-5. [JS系列之 new](https://www.yuque.com/cycblog/web-basic/uqur49)
+1. [JS系列之 作用域](https://www.yuque.com/jcyc/blog/qzyis4)
+2. [JS系列之 原型及原型链](https://www.yuque.com/jcyc/blog/snwlq2)
+3. [JS系列之 this](https://www.yuque.com/jcyc/blog/cdimgs)
+4. [JS系列之 闭包](https://www.yuque.com/jcyc/blog/xizox8)
+5. [JS系列之 new](https://www.yuque.com/jcyc/blog/uqur49)
