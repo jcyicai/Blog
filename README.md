@@ -2,7 +2,7 @@
 
 ## 最新
 
-2023年02月21日 更新一篇文章
+2023年09月27日 更新一篇文章
 
 ## 前端知识架构
 
@@ -24,6 +24,10 @@
 ## ES6 系列
 
 1. [ES6系列之 模拟实现Promise](https://juejin.cn/post/7199321626813677626)
+
+## JS 系列
+
+1. [JS系列之 闭包](https://www.yuque.com/jcyc/blog/zo37t4hpuoaf7fhb)
 
 ## CSS 系列
 
