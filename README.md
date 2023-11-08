@@ -2,13 +2,16 @@
 
 ## 最新
 
-2023年09月27日 更新一篇文章
+2023年11月01日 更新一篇文章
 
 ## 前端知识架构
 
 [前端知识架构](https://www.yuque.com/jcyc/blog/rq2fzn)
 
-## Vue源码解析 系列
+## Vue3源码解析 系列
+1. [Vue3源码架构](https://www.yuque.com/jcyc/blog/rfrnd62xuy8geuil)
+
+## Vue2源码解析 系列
 
 1. [Vue源码解析之 源码调试](https://juejin.cn/post/7183345777907859515)
 2. [Vue源码解析之 编译](https://juejin.cn/post/7183347272871051323)
