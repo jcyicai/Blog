@@ -2,7 +2,7 @@
 
 ## 最新
 
-2023年11月27日 更新一篇文章
+2023年11月28日 更新一篇文章
 
 ## 前端知识架构
 
@@ -14,6 +14,7 @@
 2. [Vue3源码解析之 reactive](https://juejin.cn/post/7303594200809783359)
 3. [Vue3源码解析之 ref](https://juejin.cn/post/7303816445041688639)
 4. [Vue3源码解析之 computed](https://juejin.cn/post/7305986100086341668)
+5. [Vue3源码解析之 watch](https://juejin.cn/post/7306033185934688267)
 
 
 ## Vue2源码解析 系列
