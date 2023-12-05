@@ -16,7 +16,7 @@
 4. [Vue3源码解析之 computed](https://juejin.cn/post/7305986100086341668)
 5. [Vue3源码解析之 watch](https://juejin.cn/post/7306033185934688267)
 6. [Vue3源码解析之 runtime](https://juejin.cn/post/7308289054029250599)
-
+7. [Vue3源码解析之 h](https://juejin.cn/post/7308643782375931958)
 
 ## Vue2源码解析 系列
 
