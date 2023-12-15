@@ -2,7 +2,7 @@
 
 ## 最新
 
-2023年11月28日 更新一篇文章
+2023年12月15日 更新一篇文章
 
 ## 前端知识架构
 
@@ -17,6 +17,7 @@
 5. [Vue3源码解析之 watch](https://juejin.cn/post/7306033185934688267)
 6. [Vue3源码解析之 runtime](https://juejin.cn/post/7308289054029250599)
 7. [Vue3源码解析之 h](https://juejin.cn/post/7308643782375931958)
+8. [Vue3源码解析之 render（一）](https://juejin.cn/post/7312353149813342249)
 
 ## Vue2源码解析 系列
 
