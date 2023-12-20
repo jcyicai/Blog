@@ -2,7 +2,7 @@
 
 ## 最新
 
-2023年12月19日 更新一篇文章
+2023年12月20日 更新一篇文章
 
 ## 前端知识架构
 
@@ -20,6 +20,7 @@
 8. [Vue3源码解析之 render（一）](https://juejin.cn/post/7312353149813342249)
 9. [Vue3源码解析之 render（二）](https://juejin.cn/post/7313203461704990756)
 10. [Vue3源码解析之 render（三）](https://juejin.cn/post/7313749355969921087)
+11. [Vue3源码解析之 render（四）](https://juejin.cn/spost/7314144983018897449)
 
 ## Vue2源码解析 系列
 
