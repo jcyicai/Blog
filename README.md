@@ -28,6 +28,7 @@
 16. [Vue3源码解析之 render component（五）](https://juejin.cn/post/7319669728812204044)
 17. [Vue3源码解析之 diff（一）](https://juejin.cn/spost/7321167987435438091)
 18. [Vue3源码解析之 diff（二）](https://juejin.cn/post/7321569896454127627)
+19. [Vue3源码解析之 compiler（一）](https://juejin.cn/spost/7323539673346555943)
 
 ## Vue2源码解析 系列
 
