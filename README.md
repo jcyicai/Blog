@@ -20,16 +20,16 @@
 8. [Vue3源码解析之 render（一）](https://juejin.cn/post/7312353149813342249)
 9. [Vue3源码解析之 render（二）](https://juejin.cn/post/7313203461704990756)
 10. [Vue3源码解析之 render（三）](https://juejin.cn/post/7313749355969921087)
-11. [Vue3源码解析之 render（四）](https://juejin.cn/spost/7314144983018897449)
-12. [Vue3源码解析之 render component（一）](https://juejin.cn/spost/7316415580101853238)
+11. [Vue3源码解析之 render（四）](https://juejin.cn/post/7314144983018897449)
+12. [Vue3源码解析之 render component（一）](https://juejin.cn/post/7316415580101853238)
 13. [Vue3源码解析之 render component（二）](https://juejin.cn/post/7316810819424829481)
-14. [Vue3源码解析之 render component（三）](https://juejin.cn/spost/7318139806730092579)
+14. [Vue3源码解析之 render component（三）](https://juejin.cn/post/7318139806730092579)
 15. [Vue3源码解析之 render component（四）](https://juejin.cn/post/7318561797452185641)
 16. [Vue3源码解析之 render component（五）](https://juejin.cn/post/7319669728812204044)
-17. [Vue3源码解析之 diff（一）](https://juejin.cn/spost/7321167987435438091)
+17. [Vue3源码解析之 diff（一）](https://juejin.cn/post/7321167987435438091)
 18. [Vue3源码解析之 diff（二）](https://juejin.cn/post/7321569896454127627)
-19. [Vue3源码解析之 compiler（一）](https://juejin.cn/spost/7323539673346555943)
-20. [Vue3源码解析之 compiler（二）](https://juejin.cn/spost/7324345717908209683)
+19. [Vue3源码解析之 compiler（一）](https://juejin.cn/post/7323539673346555943)
+20. [Vue3源码解析之 compiler（二）](https://juejin.cn/post/7324345717908209683)
 
 ## Vue2源码解析 系列
 
