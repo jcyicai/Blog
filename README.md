@@ -2,7 +2,7 @@
 
 ## 最新
 
-2024年1月15日 更新一篇文章
+2024年1月16日 更新一篇文章
 
 ## 前端知识架构
 
@@ -29,6 +29,7 @@
 17. [Vue3源码解析之 diff（一）](https://juejin.cn/spost/7321167987435438091)
 18. [Vue3源码解析之 diff（二）](https://juejin.cn/post/7321569896454127627)
 19. [Vue3源码解析之 compiler（一）](https://juejin.cn/spost/7323539673346555943)
+20. [Vue3源码解析之 compiler（二）](https://juejin.cn/spost/7324345717908209683)
 
 ## Vue2源码解析 系列
 
