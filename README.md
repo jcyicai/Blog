@@ -63,4 +63,4 @@
 
 ## 其他
 
-1. [版本控制之 Git](https://www.yuque.com/jcyc/blog/ogac0hqfv022nnw5?singleDoc# 《版本控制之 Git》)
+1. [版本控制之 Git](https://www.yuque.com/jcyc/blog/ogac0hqfv022nnw5)
