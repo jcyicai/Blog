@@ -2,7 +2,7 @@
 
 ## 最新
 
-2024年1月23日 更新一篇文章
+2024年2月26日 更新一篇文章
 
 ## 前端知识架构
 
@@ -60,3 +60,7 @@
 2. [CSS系列之 定位](https://www.yuque.com/jcyc/blog/rtkvud)
 3. [CSS系列之 盒模型](https://www.yuque.com/jcyc/blog/inblq5)
 4. [CSS系列之 水平垂直居中](https://www.yuque.com/jcyc/blog/inblq5)
+
+## 其他
+
+1. [版本控制之 Git](https://www.yuque.com/jcyc/blog/ogac0hqfv022nnw5?singleDoc# 《版本控制之 Git》)
