@@ -2,7 +2,7 @@
 
 ## 最新
 
-2024年3月7日 更新一篇文章
+2024年5月8日 更新一篇文章
 
 ## 前端知识架构
 
@@ -64,6 +64,10 @@
 2. [CSS系列之 定位](https://www.yuque.com/jcyc/blog/rtkvud)
 3. [CSS系列之 盒模型](https://www.yuque.com/jcyc/blog/inblq5)
 4. [CSS系列之 水平垂直居中](https://www.yuque.com/jcyc/blog/inblq5)
+
+## 笔记 系列
+
+1. [笔记系列之 常见的数据结构和算法](https://juejin.cn/post/7366096338843303975)
 
 ## 其他
 
